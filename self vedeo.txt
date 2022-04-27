@@ -1,0 +1,31 @@
+hello , my name is afrin mohammad patel i am from satara maharashtra. 
+i have completed my graduation fron dnyanshree institute of engg and technolgy its 7.5 CGPA
+i have completed my HSC from lal bhadur shastri collage of science i secured 74% in 10th standard.
+talking about my technical skills, i know java, c, c++, and sw testing i also familer with webtechnolgies
+which include html, css ,js by usign those technolgy i built sevral project first is file incription in java and second is
+and also in final year i have done oppinion minning for depression based post on social media i that project i perform 
+the roll of front end devloper in that project we use machine learning domane. in project we implement some web pages 
+like ,login and registration page,after that login page i have implement the self assesment page 
+
+
+ During  my project i have good experience but with this experience we are also facing some challenges                                     
+which are quite difficult to handle but at the end we are get
+the success bcoz of my teams collaboration and support.
+in self accessment
+This challenges are First upon to maintain the privacy
+of the user and make our web portal trustworthy that was quite
+difficult for the us after that to apply machine learning algorithms
+we neet to provide data regarding the post which is quite lenghthy
+for the us due to huge availability of data on the google
+Next challenge was fb was not allowing us to use real time
+user so we are creating dummy users
+and creating the post on the dummy account which
+might create be possible to create baisness in our project
+simmillary we are face so many little challenges but bcoz of my
+team support I'm able to resolve this problem.
+
+so the next topic is technical concept that aware of 
+
+
+                                  
+

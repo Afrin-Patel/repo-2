@@ -1,0 +1,81 @@
+
+
+
+
+so the next topic is technical concept that aware of so as last year
+project work with machine learning so i knew the few concept abount 
+machine learning.so what is ml Machine Learning is a subset of AI 
+where the machine is trained to learn from it's past experience. 
+The past experience is developed through the data collected. 
+Then it combines with algorithms such as Naïve Bayes, 
+Support Vector Machine(SVM) to deliver the final results.
+Machine learning is the concept that a computer program can learn and adapt
+ to new data without human intervention. Machine learning is a field of (AI) 
+that keeps a computer's built-in algorithms current regardless of changes in the worldwide economy.
+Applications of Machine Learning
+Sample applications of machine learning:
+Web search: ranking page based on what you are most likely to click on.
+Computational biology: rational design drugs in the computer based on past experiments.
+Finance: decide who to send what credit card offers to. Evaluation of risk on credit offers. How to decide where to invest money.
+E-commerce:  Predicting customer churn. Whether or not a transaction is fraudulent.
+Space exploration: space probes and radio astronomy.
+Robotics: how to handle uncertainty in new environments. Autonomous. Self-driving car.
+Information extraction: Ask questions over databases across the web.
+Social networks: Data on relationships and preferences. Machine learning to extract value from data.
+Debugging: Use in computer science problems like debugging. Labor intensive process. Could suggest where the bug could be.
+Key Elements of Machine Learning
+There are tens of thousands of machine learning algorithms and hundreds of new algorithms are developed every year.
+
+Every machine learning algorithm has three components:
+Representation: how to represent knowledge. Examples include decision trees, 
+sets of rules, instances, graphical models, neural networks, support vector 
+machines, model ensembles and others.
+Evaluation: the way to evaluate candidate programs (hypotheses). Examples include accuracy,
+ prediction and recall, squared error, likelihood, posterior probability, 
+cost, margin, entropy k-L divergence and others.
+Optimization: the way candidate programs are generated known as the search process. 
+For example combinatorial optimization, convex optimization, constrained optimization.
+All machine learning algorithms are combinations of these three components. 
+A framework for understanding all algorithms.
+Types of Learning
+There are four types of machine learning:
+
+Supervised learning: (also called inductive learning) Training data includes desired outputs.
+  This is spam this is not, learning is supervised.
+Unsupervised learning: Training data does not include desired outputs. Example is clustering. 
+It is hard to tell what is good learning and what is not.
+Semi-supervised learning: Training data includes a few desired outputs.
+Reinforcement learning: Rewards from a sequence of actions. AI types like it, 
+
+it is the most ambitious type of learning.
+Supervised learning is the most mature, the most studied and the type of learning used 
+by most machine learning algorithms. Learning with supervision is much easier than learning without supervision.
+
+Inductive Learning is where we are given examples of a function in the form of data (x)
+ and the output of the function (f(x)). The goal of inductive learning is to learn the function for new data (x).
+
+Classification: when the function being learned is discrete.
+Regression: when the function being learned is continuous.
+Probability Estimation: when the output of the function is a probability.
+
+real-woeld example
+1. Image recognition
+Image recognition is a well-known and widespread example of machine learning in the real world.
+ It can identify an object as a digital image, based on the intensity of the pixels in black and white images or colour images.
+
+Speech recognition
+Machine learning can translate speech into text. Certain software applications can convert live voice and recorded speech into a text file. 
+The speech can be segmented by intensities on time-frequency bands as well.
+
+ Medical diagnosis
+Machine learning can help with the diagnosis of diseases. 
+Many physicians use chatbots with speech recognition capabilities to discern patterns in symptoms.
+ 
+Predictive analytics
+Machine learning can classify available data into groups, which are then defined by rules set by analysts.
+ When the classification is complete, the analysts can calculate the probability of a fault.
+
+
+
+
+
